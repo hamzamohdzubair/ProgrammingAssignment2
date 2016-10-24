@@ -6,7 +6,7 @@
 ## Start from '1' and go all the way upto '11'.
 
 ## '1' to '7' is executed in the first call. And the function stops.
-## When called again and inverse exists '8' to '11' is executed.
+## When called again and inverse 'cache' exists, '8' to '11' is executed.
 
 
 
